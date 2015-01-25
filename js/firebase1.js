@@ -1,3 +1,5 @@
+
+window.onload=function(){
 (function (jQuery, Firebase, Path) {
     "use strict";
 
@@ -338,3 +340,4 @@
     });
 
 }(window.jQuery, window.Firebase, window.Path))
+}//]]>  
